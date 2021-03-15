@@ -1,7 +1,7 @@
 The goal of this project was to showcase JavaScript and React Frameworks to build out the homepage of one of the most popular and beloved websites in the world, Netflix. 
 Note: This project is not affiliated with Netflix and has limited functionality
 
-Below is React deployement instructions: 
+Below is React deployment instructions: 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
